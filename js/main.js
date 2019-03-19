@@ -40,6 +40,7 @@ function calculateAverage() {
                 // jeśli tak, zaznacz na czerwono ucznia i okienko z oceną nadając klasę 'red'
                 studentCollection[0].classList.add("red");
                 studentCollection[i].classList.add("red");
+                studentCollection[7].classList.add("red");
 
             }
 
