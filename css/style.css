@@ -16,7 +16,6 @@ html {
 
 h2 {
     font-size: 50px;;
-    /* line-height: 3rem; */
     text-align: center;
     color: orange;
     font-weight: bold;
@@ -57,7 +56,7 @@ input[type="number"] {
     font-weight: bold;
     border: 1px solid orange;
     padding: 5px 0px;
-    color:green;
+    color: lightcoral;
     text-align: center;
 }
 
@@ -69,11 +68,11 @@ input[type="number"] {
 
 button {
     margin-top: 25px;
-    background-color: green;
-    border: 2px solid green;
+    background-color: lightcoral;
+    border: 2px solid lightcoral;
     border-radius: 5px;
     font-size: 20px;
-    color: orange;
+    color: green;;
     padding: 5px 20px;
     cursor: pointer;
     text-align: center;
