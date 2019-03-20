@@ -70,12 +70,13 @@ button {
     margin-top: 25px;
     background-color: lightcoral;
     border: 2px solid lightcoral;
-    border-radius: 5px;
+    border-radius: 10px;
     font-size: 20px;
     color: green;;
     padding: 5px 20px;
     cursor: pointer;
     text-align: center;
+    outline: none;
    
  
 }
@@ -83,6 +84,7 @@ button {
 button:hover {
     background-color : orange;
     color: green;
+    border-color: orange;
 }
 
 /* background style */
